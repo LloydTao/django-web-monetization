@@ -1,3 +1,5 @@
 black
 coverage
+setuptools
+wheel
 twine
