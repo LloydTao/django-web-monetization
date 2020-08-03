@@ -5,7 +5,7 @@ with open("README.md", "r") as fh:
 
 setup(
     name="django-web-monetization",
-    version="0.2",
+    version="0.0.0",
     packages=["monetization", "monetization.migrations"],
     url="https://github.com/LloydTao/django-web-monetization",
     license="MIT",
